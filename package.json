@@ -1,0 +1,14 @@
+{
+  "name": "array-utils01",
+  "version": "1.0.1",
+  "description": "A utility library for common array operations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Array"
+  ],
+  "author": "Raj Patel",
+  "license": "ISC"
+}
